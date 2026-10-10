@@ -10,6 +10,8 @@ A modern, glass-inspired TikTok LIVE chat overlay for Windows.
 * Always-on-top and Stream Mode
 * Copy and export chat logs
 * Modern dark glass-inspired interface
+![Screenshot 1](1.png)
+![Screenshot 2](22.png)
 
 ## Download
 
