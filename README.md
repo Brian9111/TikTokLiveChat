@@ -30,7 +30,7 @@ Every bit of support is appreciated. Thank you for supporting my work!
 **ناصر الحربي**
 
 * TikTok: [@brianksa](https://www.tiktok.com/@brianksa)
-* X: [@yyppv](https://x.com/yyppv)
+
 * Support: [creators.sa/bri7](https://creators.sa/bri7)
 
 Made with love ❤️
